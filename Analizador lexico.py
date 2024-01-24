@@ -90,7 +90,7 @@ root = tk.Tk()
 root.title("Analizador Léxico")
 
 # Cambios visuales
-root.geometry("800x500")  # Tamaño de la ventana
+root.geometry("1400x500")  # Tamaño de la ventana
 root.configure(bg='#2c3e50')  # Fondo gris oscuro
 
 main_frame = ttk.Frame(root, padding=10)
